@@ -1,0 +1,8 @@
+/* o arquivo main contem todos arquivos .css necessarios para este projeto */
+
+@import url(bootstrap.min.css);
+@import url(config.css);
+@import url(global.css);
+@import url(custom.css);
+@import url(responsive.css);
+
