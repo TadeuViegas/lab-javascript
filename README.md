@@ -11,7 +11,7 @@ Dica: Use recursos de programação funcional
 maior de idade (18 anos) e quantas são menores.
 
 3. O cardápio de uma lanchonete é o seguinte:
-<img src="tabela1.jpg">
+<img src="readme-tabela.jpg">
 <i>
     Escrever um programa em Javascript que leia o código do item pedido, a quantidade e calcule
     o valor a ser pago por aquele lanche. Considere que a cada execução somente será calculado
@@ -27,4 +27,4 @@ separador é a barra (/) da data. Exemplo: Para a entrada “22/04/2019” deve 
 escrito “22 de abril de 2019”. (Obs.: não necessita de laço de repetição)
 
 5. Desenvolva o formulário com as seguintes ações a serem implementadas:
-<img src="formulario.jpg">
+<img src="readme-formulario.jpg">
