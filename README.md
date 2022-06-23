@@ -1,7 +1,7 @@
 # Laboratório JavaScript
 
 ## 📜Descrição
-4 problemas que devem ser construídos usando os conceitos de
+- 4 problemas que devem ser construídos usando os conceitos de
 HTML, CSS e sendo a parte de interatividade implementada com JavaScript.
 
 1. Faça um programa que entre com cinco números e imprima o quadrado de
@@ -10,7 +10,7 @@ Dica: Use recursos de programação funcional
 2. Peça ao usuário para digitar várias idades. Exiba quantas pessoas são
 maior de idade (18 anos) e quantas são menores.
 
-3. O cardápio de uma lanchonete é o seguinte:
+- O cardápio de uma lanchonete é o seguinte:
 <img src="readme-tabela.jpg">
 <i>
     Escrever um programa em Javascript que leia o código do item pedido, a quantidade e calcule
