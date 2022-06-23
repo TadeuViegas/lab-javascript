@@ -1,4 +1,4 @@
-# Laboratório JavaScript
+# Lab - JavaScript
 
 ## 📜Descrição
 - 4 problemas que devem ser construídos usando os conceitos de
