@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/main.css" />
+    <title>lab javascript</title>
+  </head>
+  <body>
+    <main class="main">
+      <p>
+        2.Peça ao usuário para digitar várias idades. Exiba quantas pessoas são
+        maior de idade (18 anos) e quantas são menores.
+      </p>
+      <form class="form">
+        <fieldset class="form-group">
+          <label>Número:</label>
+          <input
+            id="input"
+            type="number"
+            placeholder="Digite uma idade"
+            name="numero"
+          />
+          <button id="addButton"></button>
+        </fieldset>
+      </form>
+
+      <table>
+        <thead>
+          <th>Idade</th>
+        </thead>
+        <tbody id="output"></tbody>
+        <tfoot>
+          <tr>
+            <h1>Contagem das idades</h1>
+            <td>Maiores de 18: <span id="maior18"></span></td>
+          </tr>
+          <tr>
+            <td>Menores de 18: <span id="menor18"></span></td>
+          </tr>
+        </tfoot>
+      </table>
+    </main>
+
+    <script src="js/questao2.js"></script>
+  </body>
+</html>
