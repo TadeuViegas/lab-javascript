@@ -1,59 +1,56 @@
-.header{
-    margin: auto;
-    margin-top: 40px;
-    text-align: center;
+.header {
+  margin: auto;
+  margin-top: 40px;
+  text-align: center;
 }
 
-.main{
-    margin: auto;
-    margin-top: 40px;
-    text-align: center;
+.main {
+  margin: auto;
+  margin-top: 40px;
+  text-align: center;
 }
 
-.form{
-    margin-bottom: 20px;
+.form {
+  margin-bottom: 20px;
 }
 
-a{
-    text-decoration: none;
-    color: black;
-
+a {
+  text-decoration: none;
+  color: black;
 }
 
 table {
-    margin: auto;
-    margin-top: 20px;
-  }
-  
-  table caption {
-    font-size: 1.2em;
-    border: 2px solid black;
-    border-collapse: collapse;
-    text-align: center;
-  }
-  
-  thead,
-  tbody,
-  th,
-  tbody tr,
-  tbody td {
-    border: 1px solid black;
-    border-collapse: collapse;
-    padding: 0.5rem;
-  }
-  
-  td,
-  th {
-    text-align: center;
-  }
-  
-  tr button {
-    display: block;
-    margin: auto;
-  }
+  margin: auto;
+  margin-top: 20px;
+}
 
+table caption {
+  font-size: 1.2em;
+  border: 2px solid black;
+  border-collapse: collapse;
+  text-align: center;
+}
 
+thead,
+tbody,
+th,
+tbody tr,
+tbody td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 0.5rem;
+}
 
-.footer{
-    text-align: center;
+td,
+th {
+  text-align: center;
+}
+
+tr button {
+  display: block;
+  margin: auto;
+}
+
+.footer {
+  text-align: center;
 }
